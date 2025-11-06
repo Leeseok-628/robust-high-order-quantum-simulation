@@ -1,1 +1,1 @@
-# robust-high-order-quantum-simulation
+# Robust high-order quantum simulation using finite-width pulses

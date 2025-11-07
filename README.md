@@ -1,4 +1,9 @@
 # Robust high-order quantum simulation using finite-width pulses
+Building on the close connection between pulse sequences and Trotter formulas, this repository provides a robust high-order framework for simulating or engineering target dynamics using finite-width pulse sequences. The framework takes as input a base control sequence that simulates a target Hamiltonian to first order in its total evolution time, and systematically upgrades it to a longer sequence that achieves higher-order accuracy in the same total time.  In general, the framework supports two settings:  
+(1) a base pulse sequence with ideal instantaneous pulses (*Algorithm 1*), and  
+(2) a base robust finite-width pulse sequence (*Algorithm 2*).  
+In addition, multi-product formulas can be utilized to achieve similar high-order scaling without the need to implement negative-time evolutions.  All codes for the three numerical simulations presented in the paper are provided in this repository.
+
 
 ## Files
 

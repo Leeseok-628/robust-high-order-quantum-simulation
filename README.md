@@ -21,10 +21,10 @@
 Notebooks for reproducing the figures and numerical results presented in the paper:
 
 - **`Algorithm 1 Ising Model.ipynb`**  
-  Demonstrates Algorithm 1 by simulating an *inhomogeneous Ising chain* from a *homogeneous* one using local X controls.
+  Demonstrates Algorithm 1 by simulating an inhomogeneous Ising chain from a homogeneous one using local X controls.
 
 - **`Algorithm 1 CR to Heisenberg.ipynb`**  
-  Demonstrates Algorithm 1 for simulating a *Heisenberg chain* from a *cross-resonance (CR) Hamiltonian* with local controls.
+  Demonstrates Algorithm 1 for simulating a Heisenberg chain from a cross-resonance (CR) Hamiltonian with local controls.
 
 - **`Algorithm 2 Heisenberg Model.ipynb`**  
-  Demonstrates Algorithm 2 by simulating an *inhomogeneous Heisenberg chain* from a *homogeneous* one.
+  Demonstrates Algorithm 2 by simulating an inhomogeneous Heisenberg chain from a homogeneous one.

@@ -21,7 +21,7 @@ In addition, multi-product formulas can be utilized to achieve similar high-orde
 
 ---
 
-## Jupyter Notebooks
+### Jupyter Notebooks
 
 Notebooks for reproducing the figures and numerical results presented in the paper:
 

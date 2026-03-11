@@ -10,7 +10,7 @@ This repository contains the numerical simulation code accompanying our paper on
 - `construction1_cr_mpf.py` — MPF observable benchmark for the CR example (Fig 9 in the paper)
 - `construction2_hb_mpf.py` — MPF observable benchmark for the Construction 2 example (Fig 10 in the paper)
 - `Eulerian.py` — Eulerian-cycle generation and related pulse-sequence routines
-- `cr_helper.py` — Cross-resonance Hamiltonian and pulse-construction routines
+- `cr_helper.py` — Helper functions for `construction1_cr_mpf.py'
 
 ## Dependencies
 

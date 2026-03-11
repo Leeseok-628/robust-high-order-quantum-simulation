@@ -13,9 +13,9 @@ This repository contains the numerical simulation code accompanying our paper on
 - `Eulerian.py` — Eulerian-cycle generation and related pulse-sequence routines
 - `cr_helper.py` — Helper functions for `construction1_cr_mpf.py`
 
-- `construction1_ising.ipynb` — Construction 1, Ising example (produces Fig. 3 in the paper)
-- `construction1_cr.ipynb` — Construction 1, CR-to-Heisenberg example  (produces Figs. 4 and 9 in the paper)
-- `construction2_hb.ipynb` — Construction 2 / anisotropic Heisenberg example (produces Figs. 5 and 10 in the paper)
+- `construction1_ising.ipynb` — Construction 1, Ising example (reproduces Fig. 3 in the paper)
+- `construction1_cr.ipynb` — Construction 1, CR-to-Heisenberg example  (reproduces Figs. 4 and 9 in the paper)
+- `construction2_hb.ipynb` — Construction 2 / anisotropic Heisenberg example (reproduces Figs. 5 and 10 in the paper)
 
 ## Dependencies
 

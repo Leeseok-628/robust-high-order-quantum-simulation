@@ -9,6 +9,8 @@ This repository contains the numerical simulation code accompanying our paper on
 - `construction2_hb.py` — Construction 2 / anisotropic Heisenberg example (Fig 5 in the paper)
 - `construction1_cr_mpf.py` — MPF observable benchmark for the CR example (Fig 9 in the paper)
 - `construction2_hb_mpf.py` — MPF observable benchmark for the Construction 2 example (Fig 10 in the paper)
+- `Eulerian.py` — Eulerian-cycle generation and related pulse-sequence routines
+- `cr_helper.py` — Cross-resonance Hamiltonian and pulse-construction routines
 
 ## Dependencies
 
